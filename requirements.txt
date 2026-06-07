@@ -1,0 +1,8 @@
+scikit-learn
+gradio
+pandas
+numpy
+folium
+matplotlib
+Pillow
+joblib
