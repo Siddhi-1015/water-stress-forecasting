@@ -45,8 +45,8 @@ climate data from **2018–2026**.
 
 | Member | Role |
 |---|---|
-| Member 1 | Backend & ML Model |
-| Member 2 | Dashboard & Map |
+| Member 1 (Siddhi-1015) | Backend & ML Model |
+| Member 2  (eswarateja2004)| Dashboard & Map |
 | Member 3 | Database & SQL |
 
 ---
